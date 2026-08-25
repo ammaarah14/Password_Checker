@@ -70,3 +70,5 @@ password_checker/
   an offline attack against a fast, unsalted hash — it's illustrative, not
   a precise prediction, since real crack times depend heavily on how the
   password is stored (e.g. bcrypt/argon2 vs plain SHA-1).
+
+WTC-63BFDJMK
